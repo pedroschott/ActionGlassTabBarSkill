@@ -1,6 +1,6 @@
 # Create a Glass Action Bar SwiftUI
 
-A Codex skill for building or documenting a SwiftUI glass action bar: native `TabView` foundation, `ryanashcraft/FabBar` installation, floating action button setup, bottom action overlay, and reusable glass modifiers.
+An AI skill for building or documenting a SwiftUI glass action bar: native `TabView` foundation, `ryanashcraft/FabBar` installation, floating action button setup, bottom action overlay, and reusable glass modifiers.
 
 ## What It Includes
 
@@ -13,14 +13,14 @@ A Codex skill for building or documenting a SwiftUI glass action bar: native `Ta
 
 ## Install
 
-Copy or clone this repository into your Codex skills directory:
+Copy or clone this repository into your Codex/Claude Code skills directory:
 
 ```bash
 git clone https://github.com/pedroschott/ActionGlassTabBarSkill.git \
   ~/.codex/skills/create-glass-action-bar-swiftui
 ```
 
-Then invoke it in Codex:
+Then invoke it in Codex/Claude Code:
 
 ```text
 $create-glass-action-bar-swiftui
