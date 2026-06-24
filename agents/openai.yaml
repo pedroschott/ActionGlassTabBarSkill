@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create a Glass Action Bar SwiftUI"
+  short_description: "Build SwiftUI FAB tab bars with glass overlays"
+  default_prompt: "Use $create-glass-action-bar-swiftui to add a FabBar tab bar and glass action overlay to this SwiftUI app."
